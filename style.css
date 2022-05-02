@@ -1,0 +1,17 @@
+.grid {
+    width: 200px;
+    height: 200px;
+    align-items: center;
+    flex-wrap: wrap;
+   
+}
+.card{
+    border: 2px solid rgba(172, 199, 231, 0.623);
+    width: 60px;
+    height: 60px;
+    margin: 2.5px;
+    align-items: center;
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: center;
+}
